@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SearchFilms</string>
+    <string name="text_movieposters">Картинки взяты с https://www.movieposters.com/</string>
+    <string name="button">МЕНЮ</string>
+    <string name="button1">ИЗБРАННОЕ</string>
+    <string name="button2">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="button3">ПОДБОРКИ</string>
+    <string name="button4">НАСТРОЙКИ</string>
+    <string name="page_title">Search it!</string>
 </resources>
